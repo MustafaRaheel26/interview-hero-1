@@ -1,13 +1,47 @@
-# React + Vite
+# 🎒 No Kid Hungry - Awareness Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome! This is a simple and powerful **landing page** built to raise awareness and encourage donations for child hunger causes. The theme is inspired by the **"No Kid Hungry"** movement, and this project serves as a modern, visually engaging homepage that combines impactful messaging with clean UI animations.
 
-Currently, two official plugins are available:
+## 💡 Project Purpose
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The goal is to create a **compelling and responsive web page** that:
+- Highlights key stats about hunger issues
+- Provides a quick and emotional call-to-action ("Donate")
+- Looks great on all screen sizes
+- Adds subtle animations for a smoother user experience
 
-## Expanding the ESLint configuration
+Perfect for non-profits, donation drives, and awareness campaigns.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# interview-hero-1" 
+---
+
+## 🔧 Built With
+
+- **React** (Vite)
+- **Tailwind CSS** for styling and responsive design
+- **Framer Motion** for animation and interaction
+- **Custom Assets** (Images used for hero and bottom sections)
+
+---
+
+## 🌟 Features
+
+- 🎨 Clean, modern UI with strong typography
+- 📱 Fully responsive on mobile, tablet, and desktop
+- 🌀 Smooth entrance animations using Framer Motion
+- 🖱️ Hover effects and interactive elements
+- 📊 Three image blocks showcasing stats/data
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/MustafaRaheel26/interview-hero-1.git
+cd interview-hero-1
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
